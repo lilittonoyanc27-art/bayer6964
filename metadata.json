@@ -1,0 +1,6 @@
+{
+  "name": "Viajes - Spanish Quiz",
+  "description": "An interactive Spanish language quiz for Armenian speakers with focus on travel vocabulary, tap-to-reveal translations, and beautiful beach theme.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
